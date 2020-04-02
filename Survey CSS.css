@@ -1,0 +1,53 @@
+#main {
+  background-image: url("https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_1280.jpg");
+}
+#title-top {
+  text-align: center;
+  font-size: 25px;
+}
+body {
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 300px;
+  margin: 0;
+}
+
+h1 {
+  font-weight: 200px;
+  line-height: 1.2;
+}
+
+p {
+  font-size: 1.1 rem;
+}
+
+.container {
+  border: 5px solid hsla(246, 86%, 30%, 0.84);
+  border-radius: 3px;
+  background-color: hsla(246, 86%, 30%, 0.84);
+  margin-left: auto;
+  margin-right: auto;
+  width: 45em;
+  padding: 25px;
+}
+
+label.form-top {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+label {
+  color: white;
+}
+
+textarea {
+  width: 52.5em;
+}
+
+input.box {
+  width: 52.5em;
+  height: 2em;
+  border-radius: 3px;
+  text-align: justify;
+}

@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(230, 233, 235);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#img-div {
+  background-color: white;
+  padding: 0.4em 0.4em 0.4em 0.4em;
+}
+
+#description {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tribute-info {
+  line-height: 1.6;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+  list-style-position: outside;
+  font-family: Helvetica, Times, Serif;
+}
+
+#tribute-head {
+  text-align: center;
+  font-family: Helvetica, Times, Serif;
+  font-size: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#image-caption {
+  text-align: center;
+}
+#title {
+  text-align: center;
+  font-family: Helvetica, Times, Serif;
+}
+
+#quote {
+  font-family: Helvetica, Times, Serif;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 35em;
+  line-height: 1.6;
+  font-style: italic;
+}
+
+footer {
+  font-family: Helvetica, Times, Serif;
+  font-weight: bold;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  width: 35em;
+  line-height: 1.6;
+}
+
+img {
+  margin: 20px;
+  width: 80%;
+  height: auto;
+  max-width: 80%;
+  position: relative;
+  margin: auto;
+  display: block;
+}
